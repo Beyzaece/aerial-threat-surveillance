@@ -181,6 +181,7 @@ Dataset files are not included in the repository due to size limitations.
 ---
 
 ## Project Structure
+````
 aerial-threat-surveillance/
 │
 ├── src/
@@ -204,6 +205,7 @@ aerial-threat-surveillance/
 ├── dataset.yaml
 ├── requirements.txt
 └── README.md
+````
 ---
 
 ## Run the System
