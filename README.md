@@ -45,12 +45,15 @@ The system continuously analyzes each frame and checks whether detected objects 
 ---
 ## Full Demo Videos
 
-▶️ Helicopter Detection Demo  
-video/demo3.mp4
-video/demo2.mp4
 
-▶️ Drone Surveillance Demo  
-video/demo1.mp4
+🎥 **Helicopter Detection Demo**  
+Watch on YouTube:[Helicopter Detection Video](https://youtube.com/shorts/cv427cC86T4?si=0zmz19CWnsWh_piZ)
+
+🎥 **Helicopter Surveillance Demo**  
+Watch on YouTube: [Helicopter Surveillance Video](https://youtube.com/shorts/DftkHMOKajw?si=8VRgPpNmujIM3k74)
+
+🎥 **Drone Surveillance Demo**  
+Watch on YouTube:[Drone Surveillance Video](https://youtube.com/shorts/CAmsZhQ0t6I?si=3fHBo2PA4WvD_uc9)
 
 ## Detection Examples
 
