@@ -1,0 +1,12 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: person
+  1: car
+  2: truck
+  3: bird
+  4: drone
+  5: helicopter
